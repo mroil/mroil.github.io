@@ -1,0 +1,8 @@
+Origin: MrOiL Cydia Repo
+Label: MrOiL Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: MrOiL Cydia Repo for you :)
